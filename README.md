@@ -5,12 +5,12 @@
 A simple starter project for personal use.
 
 Some features:
-- Uses webpack to bundle HTML, TypeScript and SCSS in `/dist`.
-- Copies `src/assets` folder to `/dist`.
 - Runs a dev server with auto reload.
+- Uses webpack to bundle index.html, .ts, .scss, and assets folder in `/dist`.
 - Supports paths in `tsconfig.json` for relative imports.
 - ESLint and TS rules have some personal preferences, but can be easily tweaked.
-- No additional tools or frameworks, leaving freedom to choose your own.
+- Some minimal scaffolding in `/src` that you can modify or remove.
+- No additional tools or frameworks, leaving you free to choose your own.
 
 ## Installation
 
