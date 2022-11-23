@@ -2,6 +2,18 @@
 
 ## Installation
 
+First clone the project:
+
+```bash
+git clone https://github.com/stephenniemans/webpack-typescript-sass-starter.git
+```
+
+To remove the origin:
+
+```bash
+git remote rm origin
+```
+
 To install:
 
 ```bash
