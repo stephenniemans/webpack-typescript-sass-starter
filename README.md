@@ -40,7 +40,7 @@ To start the development server with auto-reloading:
 npm start
 ```
 
-By default the development server will be run on: `http://localhost/8080`
+By default, the development server will be run on: `http://localhost/8080`
 
 To use a different port, change the value in `webpack.config.js`:
 
