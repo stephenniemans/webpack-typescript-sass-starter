@@ -8,22 +8,16 @@ First clone the project:
 git clone https://github.com/stephenniemans/webpack-typescript-sass-starter.git
 ```
 
-To remove the origin:
+Remove the origin:
 
 ```bash
 git remote rm origin
 ```
 
-To install:
+Install dependencies:
 
 ```bash
 npm install
-```
-
-To clean and reinstall all dependencies:
-
-```bash
-npm reinstall
 ```
 
 ## Development Server
