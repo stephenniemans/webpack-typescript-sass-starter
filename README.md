@@ -1,5 +1,17 @@
 # Webpack + TypeScript + SASS Starter
 
+## Introduction
+
+A simple starter project for personal use.
+
+Some features:
+- Uses webpack to bundle HTML, TypeScript and SCSS in `/dist`.
+- Copies `src/assets` folder to `/dist`.
+- Runs a dev server with auto reload.
+- Supports paths in `tsconfig.json` for relative imports.
+- ESLint and TS rules have some personal preferences, but can be easily tweaked.
+- No additional tools or frameworks, leaving freedom to choose your own.
+
 ## Installation
 
 First clone the project:
